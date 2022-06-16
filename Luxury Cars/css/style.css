@@ -1,0 +1,118 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(7,2,3,1.00) 7.77%,rgba(236,229,229,1.00) 28.50%,rgba(128,119,119,1.00) 50.78%,rgba(244,234,234,1.00) 72.54%,rgba(95,92,92,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(7,2,3,1.00) 7.77%,rgba(236,229,229,1.00) 28.50%,rgba(128,119,119,1.00) 50.78%,rgba(244,234,234,1.00) 72.54%,rgba(95,92,92,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(7,2,3,1.00) 7.77%,rgba(236,229,229,1.00) 28.50%,rgba(128,119,119,1.00) 50.78%,rgba(244,234,234,1.00) 72.54%,rgba(95,92,92,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(7,2,3,1.00) 7.77%,rgba(236,229,229,1.00) 28.50%,rgba(128,119,119,1.00) 50.78%,rgba(244,234,234,1.00) 72.54%,rgba(95,92,92,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(53,53,53,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(53,53,53,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(53,53,53,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(53,53,53,1.00) 100%);
+    color: #F7F2F2;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #CD6408;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #C77F09;
+}
+
+
+
+body {
+}
+.container footer .row {
+    text-shadow: 0px 0px;
+    border-style: outset;
+    color: #E7DF08;
+    text-transform: none;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #020000;
+    color: #D17A0B;
+}
+footer .row .col-lg-3 {
+
+}
+#accordion1 .card #headingOne1 {
+    background-color: #030303;
+    color: #E9AA0C;
+}
+
+
+
+
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #030303;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #000000;
+}
+#headingOne1 .mb-0 a {
+    color: #F49927;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #F49927;
+}
+.row .col-lg-4 h4 {
+    color: #010000;
+}
+.container-fluid .container footer {
+}
+.card.col-md-4.col-lg-12 .card-body .card-title.text-center {
+    color: #F8D048;
+}
+.container-fluid .container .text-center {
+    color: #050504;
+}
+.container-fluid .container .text-center {
+}
+.carousel-item .carousel-caption h5 {
+    color: #EF9E07;
+}
+.carousel-item.active .carousel-caption p {
+    color: #F303B6;
+}
+.carousel-item.active .carousel-caption h5 {
+    background-color: #F7F0F0;
+}
+.carousel-item .carousel-caption p {
+    background-color: #050101;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+}
+.col-lg-4 .card.col-md-4.col-lg-12 .card-img-top {
+    height: 10rem;
+}
+.text-center em strong {
+    color: #FFB142;
+}
+.row .col-lg-4 .text-center {
+    color: #FFB142;
+}
+.col-lg-4 .text-center h3 {
+    font-size: 1.5rem;
+}
+.row .col-lg-4 .text-center {
+    color: #0B0001;
+}
+.container {
+    text-align: center;
+
+
+}
+.container form {
+
+}
+.container form input {
+
+}
+.container form {
+
+}
